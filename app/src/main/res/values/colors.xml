@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <!--<color name="colorAccent">#2979FF</color>-->
+    <color name="colorAccent">#FF5722</color>
+    <color name="google_white">#ffffffff</color>
+    <color name="google_grey">#E0E0E0</color>
+    <color name="google_grey300">#ffdadce0</color>
+    <color name="google_blue100">#ffd2e3fc</color>
+
+    <color name="swipe">#F44336</color>
+
+    <color name="scp_brown">#FFE0B2</color>
+    <color name="scp_deep_brown">#FF5722</color>
+</resources>

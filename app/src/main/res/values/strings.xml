@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScpReader</string>
+    <string name="scp_s_1">SCP 系列 I</string>
+    <string name="scp_s_2">SCP 系列 II</string>
+    <string name="scp_s_3">SCP 系列 III</string>
+    <string name="scp_s_4">SCP 系列 IV</string>
+    <string name="scp_s_5">SCP 系列 V</string>
+    <string name="scp_cn_s_1">SCP-CN 系列 I</string>
+    <string name="scp_cn_s_2">SCP-CN 系列 II</string>
+    <string name="scp_about">关于</string>
+    <string name="scp_settings">设置</string>
+    <string name="drawer_open">开启</string>
+    <string name="drawer_close">关闭</string>
+    <string name="scp">Scp</string>
+    <string name="space" />
+    <string name="reader">Reader</string>
+</resources>

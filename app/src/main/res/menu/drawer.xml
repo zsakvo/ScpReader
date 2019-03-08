@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/main_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/scp_s_1"
+            android:checked="true"
+            android:icon="@drawable/ic_file"
+            android:title="@string/scp_s_1" />
+        <item
+            android:id="@+id/scp_s_2"
+            android:icon="@drawable/ic_file"
+            android:title="@string/scp_s_2" />
+        <item
+            android:id="@+id/scp_s_3"
+            android:icon="@drawable/ic_file"
+            android:title="@string/scp_s_3" />
+        <item
+            android:id="@+id/scp_s_4"
+            android:icon="@drawable/ic_file"
+            android:title="@string/scp_s_4" />
+        <item
+            android:id="@+id/scp_s_5"
+            android:icon="@drawable/ic_file"
+            android:title="@string/scp_s_5" />
+    </group>
+    <group
+        android:id="@+id/second_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/scp_cn_s_1"
+            android:icon="@drawable/ic_file"
+            android:title="@string/scp_cn_s_1" />
+        <item
+            android:id="@+id/scp_cn_s_2"
+            android:icon="@drawable/ic_file"
+            android:title="@string/scp_cn_s_2" />
+    </group>
+    <group
+        android:id="@+id/third_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/log"
+            android:icon="@drawable/ic_about"
+            android:title="@string/scp_about" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/scp_settings" />
+    </group>
+</menu>
